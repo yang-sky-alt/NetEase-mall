@@ -1,0 +1,14 @@
+.personal_page .header {
+  height: 200rpx;
+  line-height: 200rpx;
+  background-color: #eed7b5;
+  display: flex;
+  align-items: center;
+}
+.personal_page .header .user_img {
+  margin: 40rpx;
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+}
+
